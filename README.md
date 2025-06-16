@@ -1,5 +1,5 @@
 
-# analyzing-crime-los-angeles
+# Analyzing Crime Llos Angeles
 ![image](https://github.com/user-attachments/assets/eed1241e-4e5c-41a3-a93c-d921bb4330c0)
 
 Projeto para Estudo - Datacamp
